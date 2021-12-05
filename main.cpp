@@ -52,85 +52,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: amplifier
+//  action 1: guitar is connected to the amplifier
+amplifier.guitarConnected();
+//  action 2: turn on overdrive
+amplifier.turnOnOverdrive();
+//  action 3: turn on delay effect
+amplifier.turnOnDelay();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: cat
+//  action 1: the cat is born
+cat.Born();
+//  action 2: cat eats some food
+cat.eatFood();
+//  action 3: cat is playing with the ball
+cat.playingWithBall();
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: mobilePhone
+//  action 1: mobile phone is vibrating
+mobilePhone.vibrate();
+//  action 2: mobile phone is searching for a WiFi connection
+mobilePhone.searchingWifi();
+//  action 3: mobile phone is charging
+mobilePhone.charging();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: orc
+//  action 1: the orc is sleeping 
+orc.sleep();
+//  action 2: the orc is attacking
+orc.attack();
+//  action 3: the orc is running
+orc.run();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: pianist
+//  action 1: the pianist is playing a major scale
+pianist.playingMajorScale();
+//  action 2: the pianist is playing jazz
+pianist.playingJazz();
+//  action 3: the pianista is doing a solo
+pianist.playingSolo();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: soldier
+//  action 1: the solider is training
+soldier.train();
+//  action 2: the soldier is on guard
+soldier.guard();
+//  action 3: the soldier is in debrief
+soldier.debrief();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: water
+//  action 1: the water is cold
+water.cold();
+//  action 2: the water is hot
+water.hot();
+//  action 3: the water turned into ice
+water.turnIce();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: compiler
+//  action 1: the compiler build succesfully
+compiler.buildSuccess(),
+//  action 2: the compiler found errors
+compiler.foundErrors();
+//  action 3: the compiler is not working
+compiler.notWorking();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: drummer
+//  action 1: the drummer is recording
+drummer.recording();
+//  action 2: the drummer is playing fast
+drummer.playingFast();
+//  action 3: the drummer is practicing
+drummer.practicing();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
-
+//  Noun: windows
+//  action 1: windows is starting
+windows.starting();
+//  action 2: windows have new updates
+windows.updatesAvailable();
+//  action 3: windows needs to restart
+windows.needRestart();
 
 
 #endif
